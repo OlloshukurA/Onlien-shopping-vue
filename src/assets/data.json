@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "itemQuality": "New",
+        "userGemder": "Men's",
+        "itemImg":"https://storage.kun.uz/source/8/2vhrckiC44MuMjwHtjaVaPmX0GWzKw6F.jpg",
+        "itemType": "Shoes",
+        "itemBrand":"Nike Air Max",
+        "itemPrice": "$120"
+    },
+    {
+        "id": 2,
+        "itemQuality": "New",
+        "userGemder": "Men's",
+        "itemImg":"https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_960_720.jpg",
+        "itemType": "Shoes",
+        "itemBrand":"Nike White Zoom",
+        "itemPrice": "$220"
+    },
+    {
+        "id": 3,
+        "itemQuality": "New",
+        "userGemder": "Men's",
+        "itemImg":"https://cdn.pixabay.com/photo/2017/07/02/19/24/dumbbells-2465478_960_720.jpg",
+        "itemType": "Shoes",
+        "itemBrand":"Puma New Blue",
+        "itemPrice": "$180"
+    },
+    {
+        "id": 4,
+        "itemQuality": "New",
+        "userGemder": "Men's",
+        "itemImg":"https://cdn.pixabay.com/photo/2020/07/07/04/31/shoes-5379215_960_720.jpg",
+        "itemType": "Shoes",
+        "itemBrand":"Nike Jordan",
+        "itemPrice": "$400"
+    },
+    {
+        "id": 5,
+        "itemQuality": "New",
+        "userGemder": "Men's",
+        "itemImg":"https://cdn.pixabay.com/photo/2017/07/13/02/53/shoe-2498994_960_720.jpg",
+        "itemType": "Shoes",
+        "itemBrand":"Nike High Top",
+        "itemPrice": "$320"
+    },
+    {
+        "id": 6,
+        "itemQuality": "New",
+        "userGemder": "Men's",
+        "itemImg":"https://cdn.pixabay.com/photo/2017/09/20/14/31/sneaker-2768733_960_720.png",
+        "itemType": "Shoes",
+        "itemBrand":"Nike Force LC",
+        "itemPrice": "$700"
+    },
+    {
+        "id": 7,
+        "itemQuality": "New",
+        "userGemder": "Men's",
+        "itemImg":"https://cdn.pixabay.com/photo/2014/05/18/11/26/shoes-346986_960_720.jpg",
+        "itemType": "Shoes",
+        "itemBrand":"Nike Trend AP",
+        "itemPrice": "$190"
+    },
+    {
+        "id": 8,
+        "itemQuality": "New",
+        "userGemder": "Men's",
+        "itemImg":"https://cdn.pixabay.com/photo/2016/03/27/19/39/jump-1283915_960_720.jpg",
+        "itemType": "Shoes",
+        "itemBrand":"Nike Wet Max",
+        "itemPrice": "$250"
+    }
+]
